@@ -1,2 +1,6 @@
-# Jedha_Project_ML_Kaggle_Challenge
-Kaggle like challenge - determine the best ML model to predict the conversion or not of a client on an online website
+## MACHINE LEARNING - KAGGLE LIKE CHALLENGE
+
+### GOAL
+Determine the best Machine Learning Model to predict the conversion of a client visiting a website.
+
+### USAGE
